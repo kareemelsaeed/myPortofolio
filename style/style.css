@@ -4,3 +4,11 @@
     color: white;
     background-position: initial;
 }
+
+.divLine{
+    width: 100px;
+    height: 5px;
+    border: 3px solid orangered;
+    border-radius: 4px;
+    background-color: orangered;
+}
